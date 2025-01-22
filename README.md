@@ -13,6 +13,9 @@ This project analyzes coffee orders to uncover insights using dynamic visualizat
   - Purple-themed visualizations with slicers and timelines.  
   - Users can filter data by time periods for precise analysis.  
 
+## Dashboard Preview  
+![Coffee Orders Dashboard](./coffee_orders_dashboard.png)  
+
 ## Tools & Techniques  
 - **Excel**: For cleaning, formula-driven dynamic updates, and creating interactive dashboards.  
 
